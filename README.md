@@ -9,8 +9,10 @@
 
 ### 👨‍💻 About Me :
 I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
-Love Nature 🌲 , Books 📖
-Creative 🧠 and Hard-working 🧗‍♂️
+
+Love Nature 🌲 , Books 📖.
+
+Creative 🧠 and Hard-working 🧗‍♂️.
 
 - 🔭 I’m currently working on creating websites and apps for education
 - 🌱 I’m currently learning other programming languages, like C++, C# and JavaScript
