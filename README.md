@@ -2,7 +2,10 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-![background](bg pic.jpg "background")
+
+<div align="center">
+  <img src="https://drive.google.com/file/d/12Y7gFK-A0r4W2QRuVgl_jwQty_qqii7h/view?usp=share_link" width="200"/>
+</div>
 
 ### 👨‍💻 About Me :
 I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
@@ -48,6 +51,6 @@ Creative 🧠 and Hard-working 🧗‍♂️
 
 ---
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
