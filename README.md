@@ -1,24 +1,28 @@
-<h1>
+<h1 align="center" >
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/12Y7gFK-A0r4W2QRuVgl_jwQty_qqii7h/view?usp=share_link" width="200"/>
+  <img src="pic/bg pic.jpg" width="800px"/>
 </div>
 
 ### 👨‍💻 About Me :
-I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in the UK.
 
-Love Nature 🌲 , Books 📖.
+Creative :bulb: and Hard-working 🧗‍♂️.
 
-Creative 🧠 and Hard-working 🧗‍♂️.
+Love Nature 🌲, Books 📖 and Coding :computer:.
 
 - 🔭 I’m currently working on creating websites and apps for education
 - 🌱 I’m currently learning other programming languages, like C++, C# and JavaScript
 - 👯 I’m looking to collaborate on innovative programming projects between new and creative programmers around the world
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tri-thien-nguyen/) or [My Email](mailto:anretrithien@gmail.com)
-- Please find some of my projects below:
+
+
+### Please find some of my projects below. :card_index_dividers:
+#### Clean and readable code is what you can expect to see in these programs :sun_with_face:
+
 1. [Task manager](https://github.com/AndrewThien/Task-manager)
 - Task manager is a Python program for a small business that can help it to manage tasks assigned to each member of the team. Information about tasks and users will be shown and manipulated effectively by using this app.
 
