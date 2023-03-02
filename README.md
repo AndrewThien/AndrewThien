@@ -10,7 +10,12 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 - 🔭 I’m currently working on creating websites and apps for education
 - 🌱 I’m currently learning other programming languages, like C++, C# and JavaScript
 - 👯 I’m looking to collaborate on innovative programming projects between new and creative programmers around the world
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tri-thien-nguyen/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Tri Thien Nguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tri-thien-nguyen/)
+- Please find some of my project below:
+1.
+2.
+3.
+4.
 
 ---
 
