@@ -10,11 +10,9 @@
 ### 👨‍💻 About Me :
 I am a Passionate Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Vietnam and living in the UK. 
 
-Always willing to learn more and open for new challenges :muscle:
+Creative :bulb: hard-working 🧗‍♂️ willing to learn more and open for new challenges :muscle:
 
-Creative :bulb: and Hard-working 🧗‍♂️.
-
-Love Nature 🌲, Books 📖 and Coding :computer:.
+Love Nature 🌲 Books 📖 and Coding :computer:.
 
 - 🔭 I’m currently working on creating websites and apps for education and other fields
 - 🌱 I have expertise in using Python and Djagon and am currently learning other programming languages, like C++, C# and JavaScript
