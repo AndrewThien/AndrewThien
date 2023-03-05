@@ -15,7 +15,7 @@ Creative :bulb: hard-working 🧗‍♂️ willing to learn more and open for ne
 
 Love Nature 🌲 Books 📖 and Coding :computer:.
 
-- 🔭 I’m currently working on mastering Python in some specific aspects, like GUI Programming and RESTful APIs
+- 🔭 I’m currently working on mastering Python in some specific aspects, like Artificial Intelligence applications, GUI Programming and RESTful APIs
 - 🌱 I have expertise in using Python and Djagon and am currently learning other programming languages, like C++, C# and JavaScript
 - 👯 I’m looking to collaborate on innovative programming projects between new and creative programmers around the world
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tri-thien-nguyen/) or [My Email](mailto:anretrithien@gmail.com)
