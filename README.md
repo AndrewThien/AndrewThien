@@ -16,7 +16,7 @@ Creative :bulb: hard-working 🧗‍♂️ willing to learn more and open for ne
 Love Nature 🌲 Books 📖 and Coding :computer:.
 
 - 🔭 I’m currently working on mastering Python in some specific aspects, like Artificial Intelligence applications, GUI Programming and RESTful APIs
-- 🌱 I have expertise in using Python and Djagon and am currently learning other programming languages, like C++, C# and JavaScript
+- 🌱 I have expertise in using Python, Typescript, React and Djagon and am currently learning other programming languages, like C++, C#
 - 👯 I’m looking to collaborate on innovative programming projects between new and creative programmers around the world
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tri-thien-nguyen/) or [My Email](mailto:anretrithien@gmail.com)
 
@@ -35,6 +35,9 @@ Love Nature 🌲 Books 📖 and Coding :computer:.
 
 4. [What to watch next?](https://github.com/AndrewThien/What-will-I-watch-next-)
 - This project applies SpaCy - a Python NLP library - to recommend the movie to watch next based on the film desciptions and desciption of a film.
+
+5. [ChatPDF](https://github.com/AndrewThien/chatpdf)
+- A website can understand and answer any questions about a PDF file uploaded. Built by Typescript and Next.js (React)
 
 ---
 
