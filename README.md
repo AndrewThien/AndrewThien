@@ -16,8 +16,8 @@ Creative :bulb: hard-working 🧗‍♂️ willing to learn more and open for ne
 Love Nature 🌲 Books 📖 and Coding :computer:.
 
 - 🔭 I’m currently working on mastering Python in some specific aspects, like Artificial Intelligence applications, GUI Programming and RESTful APIs
-- 🌱 I have expertise in using Python, Typescript, React and Djagon and am currently learning other programming languages, like C++, C#
-- 👯 I’m looking to collaborate on innovative programming projects between new and creative programmers around the world
+- 🌱 I have expertise in using Python, Typescript, React and Django and am currently learning other programming languages, like C++, C#
+- 👯 I’m looking to collaborate on innovative programming projects with new and creative programmers around the world
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tri-thien-nguyen/) or [My Email](mailto:anretrithien@gmail.com)
 
 
@@ -28,7 +28,7 @@ Love Nature 🌲 Books 📖 and Coding :computer:.
 - Task manager is a Python program for a small business that can help it to manage tasks assigned to each member of the team. Information about tasks and users will be shown and manipulated effectively by using this app.
 
 2. [Inventory](https://github.com/AndrewThien/Inventory)
-- Inventory is a Python program that was made for dealing with inventory management. Managers can use this program to search the product by its code, determine the product with the lowest quantity and restock it, determine the product with the highest quantity, calculate the total value of each stock item.
+- Inventory is a Python program that was made for dealing with inventory management. Managers can use this program to search the product by its code, determine the product with the lowest quantity and restock it, determine the product with the highest quantity, and calculate the total value of each stock item.
 
 3. [Your Language Lounge](https://github.com/AndrewThien/Your-Language-Lounge)
 - This is my first website built using the Django framework. The website can be used as a promotion page for a language center with much information about their values, teachers, courses, etc. Also, there is a section containing English Learning materials and related posts. A small survey is included at the end of each material and this will enable users to know other users' opinions about the post.
