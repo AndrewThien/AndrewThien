@@ -9,7 +9,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-I am a Passionate Graduate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Vietnam and living in the UK. 
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Vietnam and living in the UK. 
 
 Creative :bulb: hard-working 🧗‍♂️ willing to learn more and open for new challenges :muscle:
 
